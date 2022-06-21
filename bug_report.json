@@ -1,0 +1,13 @@
+{
+"Bug_id": 17,
+"Title": "Application installation error",
+"Severity": "Blocker",
+"Priority": "high",
+"Environment": ["1) Xiaomi redmi 4x", "Android 7.1.2", "MIUI Global 11.0.2.Stable"],
+"Precondition": { 
+ "STR": ["1) download application", "2) click for install"]
+    }
+ "AR": "An error message appears 'There was a problem parsing the package'",
+ "ER": "Installing the app on the phone",
+ "Attachments": "https://drive.google.com/file/d/1SAbMY3odM6rXmRWTwbaX0GbHSMHjXlaG/view?usp=drivesdk"
+}
