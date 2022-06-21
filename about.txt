@@ -31,3 +31,15 @@ JSON массив
   "skills": ["SQL", "Postman", "Bash"]
   }
 }
+
+
+Объект в массиве
+
+
+[ {"name": "Viktor",
+    "age": 15
+   },
+   {"name": "Polina",
+     "age": 5   
+   }
+]
