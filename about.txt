@@ -1,0 +1,33 @@
+JSON объект
+
+{
+  "name": "Гадалина Лана",
+  "age": 38
+}
+
+JSON массив
+
+[ "MALE", "FEMALE" ]
+[ 1, 2, 3 ]
+[ "MALE", "FEMALE", 3, 4 ]
+
+
+Объект в объекте:
+
+{
+  "name": "Гадалина Лана",
+  "age": 38
+  "kids": {
+  "son": "Viktor",
+  "daughter": "Polina"
+  }
+}
+
+Массив в объекте:
+
+{
+  "name": "Гадалина Лана",
+  "age": 38
+  "skills": ["SQL", "Postman", "Bash"]
+  }
+}
